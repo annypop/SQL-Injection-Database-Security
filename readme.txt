@@ -1,3 +1,5 @@
+SQL Injecttion Attack & Prevention. Below is the details for each file required to run the project.
+
 config. php - configure database
 login. php - allows user to login
 register . php - allows user to login
